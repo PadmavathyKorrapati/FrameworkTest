@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Padma/Jar/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Padma/test-ng/test-ng/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/Padma/test-ng/test-ng/testng.jar"/>
+	<classpathentry kind="lib" path="C:/Padma/Jar/ExtentReports-20180407T061831Z-001/ExtentReports/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Padma/Jar/ExtentReports-20180407T061831Z-001/ExtentReports/freemarker-2.3.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

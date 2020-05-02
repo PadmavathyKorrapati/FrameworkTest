@@ -1,0 +1,38 @@
+[0427/195108.301:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir27244_28693\Crashpad\reports\cb6d524d-556b-417a-9dec-77933474fbf7.dmp: The system cannot find the path specified. (0x3)
+[0427/195108.305:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0430/132949.625:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir36348_134\Crashpad\reports\937662ad-1799-4c1c-8710-7595dd448e2c.dmp: The system cannot find the path specified. (0x3)
+[0430/132949.645:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225437.113:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/225441.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/225441.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/225441.822:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/225441.823:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/225441.823:ERROR:exception_snapshot_win.cc(98)] thread ID 30504 not found in process
+[0504/225512.834:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir28252_2135\Crashpad\reports\94d541a1-e113-4845-95b3-f923c1d974f5.dmp: The system cannot find the path specified. (0x3)
+[0504/225512.835:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225513.691:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir34216_5971\Crashpad\reports\56691ca4-7d89-4952-acc8-f89e79abd495.dmp: The system cannot find the path specified. (0x3)
+[0504/225513.692:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225513.710:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir32528_17138\Crashpad\reports\dffca071-b422-4b8b-80d7-41e766fdc43a.dmp: The system cannot find the path specified. (0x3)
+[0504/225513.711:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225519.008:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir31816_22979\Crashpad\reports\48f66a79-867a-41f5-a164-524284f8b7c0.dmp: The system cannot find the path specified. (0x3)
+[0504/225519.009:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225520.529:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir27244_28693\Crashpad\reports\7dfc7b97-1256-4a6d-a47c-8971bca7f528.dmp: The system cannot find the path specified. (0x3)
+[0504/225520.529:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225523.013:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir36772_2028\Crashpad\reports\54167958-cd76-4a35-9457-2ab621034c72.dmp: The system cannot find the path specified. (0x3)
+[0504/225523.374:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225524.450:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir27560_12216\Crashpad\reports\28daf4e9-6d03-45b7-be6e-e412791dc9ac.dmp: The system cannot find the path specified. (0x3)
+[0504/225524.451:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225529.041:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir748_16156\Crashpad\reports\80181bd0-fb13-45db-a301-563e70ce8a4e.dmp: The system cannot find the path specified. (0x3)
+[0504/225529.042:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225532.045:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir11928_3797\Crashpad\reports\c68d24a9-330a-45e7-84a9-d4b9d40ff5d2.dmp: The system cannot find the path specified. (0x3)
+[0504/225533.190:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225532.122:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir17640_8598\Crashpad\reports\2dfe188d-bcb5-4174-bb86-1bfdd9a75d79.dmp: The system cannot find the path specified. (0x3)
+[0504/225533.572:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225534.724:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir28200_19892\Crashpad\reports\d41fe0b6-c1fb-4951-9818-8dc529d1daaa.dmp: The system cannot find the path specified. (0x3)
+[0504/225535.254:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/225534.435:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/225535.545:ERROR:exception_snapshot_win.cc(98)] thread ID 39028 not found in process
+[0504/230409.637:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir32340_19704\Crashpad\reports\a1c42142-55a2-4d43-b772-2b9b3c912569.dmp: The system cannot find the path specified. (0x3)
+[0504/230409.638:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0504/230410.736:ERROR:file_io_win.cc(170)] CreateFile C:\Users\OBULA_~1\AppData\Local\Temp\scoped_dir24488_27281\Crashpad\reports\3a1054f5-31d9-4258-a3a7-1931b3c817fc.dmp: The system cannot find the path specified. (0x3)
+[0504/230410.738:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
